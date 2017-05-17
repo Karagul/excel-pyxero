@@ -15,7 +15,7 @@ If only this could all be done automatically with the click of a button. . .
 
 .
 
-. . .  i t  c a n  . . .
+. . .  i t   c a n  . . .
 
 ### Markdown
 
