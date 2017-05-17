@@ -8,9 +8,9 @@ def pyCreateInvoice(ContactID,cYear,cMonth,cDay,dYear,dMonth,dDay,vbLineItems):
 	from ast import literal_eval
 	import datetime
 
-	with open(r"\\dc01\Admin\CRI\MAIN Audit Automation Templates 2011\Balance Sheet\Xero API\privatekey.pem") as keyfile: 
+	with open(r"PATH TO YOUR PRIVATEKEY.PEM REGISTERED ON XERO") as keyfile: 
 		rsa_key = keyfile.read()
-	credentials = PrivateCredentials("MZYRQDPOFIIDWATZS13KRMLWSNDZRK", rsa_key)
+	credentials = PrivateCredentials("CONSUMER KEY HERE", rsa_key)
 	xero = Xero(credentials)  
 
 	evalLineItems = literal_eval(vbLineItems)
@@ -40,9 +40,9 @@ def pyAttachPDF(fName,fPath,invID):
 	import datetime
 	
 
-	with open(r"\\dc01\Admin\CRI\MAIN Audit Automation Templates 2011\Balance Sheet\Xero API\privatekey.pem") as keyfile: 
+	with open(r"PATH TO YOUR PRIVATEKEY.PEM REGISTERED ON XERO") as keyfile: 
 		rsa_key = keyfile.read()
-	credentials = PrivateCredentials("MZYRQDPOFIIDWATZS13KRMLWSNDZRK", rsa_key)
+	credentials = PrivateCredentials("CONSUMER KEY HERE", rsa_key)
 	xero = Xero(credentials) 
 	
 	chdir(fPath)
