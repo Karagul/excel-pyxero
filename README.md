@@ -22,9 +22,9 @@ Head over to the [github repository](https://github.com/gnarly-charlie/excel-pyx
 ### Breaking it down
 
 Overall scope of project
--Sub scope 1
--Sub scope 2
--Sub scope 3
+- Sub scope 1
+- Sub scope 2
+- Sub scope 3
 
 #### Sub Scope 1
 
