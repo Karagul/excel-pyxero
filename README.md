@@ -17,7 +17,7 @@ If *only* this could all be done automatically with the click of a button. . .
 
 ***i t   c a n  b e***
 
-Head over to the [github repository](https://github.com/gnarly-charlie/excel-pyxero) if you're just after the business end, otherwise read on dear reader for the ride of your life™!
+Head over to the [github repository](https://github.com/gnarly-charlie/excel-pyxero) if you're just after the business end, otherwise read on dear reader for the *ride of your life™*!
 
 ### Markdown
 
