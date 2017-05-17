@@ -9,11 +9,11 @@ Basically as a nature of our business we need to track carbon offsets sold to cl
 
 If *only* this could all be done automatically with the click of a button. . .
 
-.
+*.*
 
-.
+*.*
 
-.
+*.*
 
 ***i t   c a n  b e***
 
