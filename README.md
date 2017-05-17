@@ -7,7 +7,7 @@ The latest windmill that I took a tilt at was automatically generating invoices 
 
 Basically as a nature of our business we need to track carbon offsets sold to clients within excel spreadsheets which need to be updated at least once a quarter. Each time these are updated a pdf copy of this needs to be provided to the client along with an invoice containing details from the balance sheet.
 
-If only this could all be done automatically with the click of a button. . .
+If *only* this could all be done automatically with the click of a button. . .
 
 .
 
