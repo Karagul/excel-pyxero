@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Trials and tribulations in the pursuit of endless automation
 
-You can use the [editor on GitHub](https://github.com/gnarly-charlie/excel-pyxero/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Any opportunity to further automate things around work don't get passed up by me, no little how meagre the savings in time offered are!
+Learning something new and shaving time off repetetive tasks is a win-win in my book. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The latest windmill that I took a tilt at was automatically generating invoices from within excel for Xero. 
+
+Basically as a nature of our business we need to track carbon offsets sold to clients within excel spreadsheets which need to be updated at least once a quarter. Each time these are updated a pdf copy of this needs to be provided to the client along with an invoice containing details from the balance sheet.
+
+If only this could all be done automatically with the click of a button. . .
 
 ### Markdown
 
