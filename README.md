@@ -1,7 +1,6 @@
 # excel-pyxero
 Accessing Xero through Excel using xlwings and pyxero
 
-
 ### You will need/dependencies
 
 [Anaconda](https://www.continuum.io/downloads) - This has only been tested with Python 3
@@ -26,3 +25,5 @@ python –m pip install pyxero --upgrade
 You'll also need open Excel and:
 
 File > Options > Trust Centre > Trust Centre Settings > Macro Settings > Enable “Trust access to the VBA project object model”
+
+Additionally you will need to register a private application with Xero for your organisation. [This](https://developer.xero.com/documentation/auth-and-limits/private-applications) details the steps required to generate the certificate and register it for use with Xero.
