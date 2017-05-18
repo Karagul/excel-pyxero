@@ -1,4 +1,4 @@
-# excel-pyxero
+# excel-pyxero (Repo WIP, please come back later for setup spreadsheet templates/full instructions)
 Accessing Xero through Excel using xlwings and pyxero
 
 ### You will need/dependencies
